@@ -6,7 +6,7 @@ public class ContaTerminal {
         Scanner input = new Scanner(System.in);
 
         System.out.println("seja bem-vinda(o) ao banco digital ticiabank! :)");
-        System.out.println("por favor, digite seu nome: ");
+        System.out.println("por favor, digite o seu nome: ");
         String nome = input.nextLine();
 
         System.out.println("digite o número da agência: ");
